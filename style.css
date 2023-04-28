@@ -30,6 +30,6 @@ h2#e{border-radius: 5px 5px 0px 0px;}
 .em-textos{background-color: var(--color04);text-decoration: none;}
 .em-textos:hover{color: #000000;}
 .em-textos::after{content: '\1F517';}
-footer{text-align: center;}
+footer{text-align: center;  }
 iframe{ width: 100%;}
 .do-div{margin: 8px;}
