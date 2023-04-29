@@ -13,9 +13,9 @@
 
 body{background-color: var(--color04);}
 header{background-color: var(--color01);height: 300px; box-shadow: 0px 0px 5px black;}
-h1{font-family: appe;text-align: center;padding-top: 100px;}
+h1{font-family: appe;text-align: center;padding-top: 90px;}
 h2{font-family: appe;background-color: var(--color04);}
-p#pri{text-align: center;padding-bottom: 15px;}
+p#pri{text-align: center;padding-bottom: 8px;}
 .principal{text-decoration: none;color: var(--color05);padding: 10px;}
 .principal:hover{background-color: var(--color05);color:var(--color02);transition-duration: 0.8s;border-radius: 5px;}
 main{max-width: 900px;min-width: 320px;margin: auto;background-color: var(--color03);padding: 10px;}
