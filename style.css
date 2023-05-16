@@ -30,6 +30,10 @@ h2#e{border-radius: 5px 5px 0px 0px;}
 .em-textos{background-color: var(--color04);text-decoration: none;}
 .em-textos:hover{color: #000000;}
 .em-textos::after{content: '\1F517';}
-footer{text-align: center;}
+footer{text-align: center;background-color: var(--color01)  ;}  
+.um:hover{color: rgb(169, 36, 36);}
 iframe{ width: 100%;}
 .do-div{margin: 8px;}
+div#imagem{
+    background: var(--color01) url(informações/desktop.png) center center no-repeat fixed;background-size: contain;height: 400px;}
+.x{background-color: rgba(28, 27, 27, 0.57);width: 50%;padding: 10px;margin: 10px;}
